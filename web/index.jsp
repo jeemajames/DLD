@@ -14,6 +14,6 @@ and open the template in the editor.
         <h3>First Commit</h3>
          <h4>from web</h4>
         <div>TODO write content</div>
-        <h4>from web</h4>
+       
     </body>
 </html>
